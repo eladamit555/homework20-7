@@ -1,14 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd3d1ba-48b6-4113-a3b7-cbff629b181e" name="Changes" comment="" />
+    <list default="true" id="9bd3d1ba-48b6-4113-a3b7-cbff629b181e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/homework20-7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework20-7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "eladamit555"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/eladamit555/homework20-7.git",
+    "accountId": "cf23a373-d230-4fe7-9893-0a31c67e819d"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000001258380805" />
+      <entry key="MS500" value="1.0660636275353417" />
+      <entry key="S2" value="1.5076906723015908" />
+      <entry key="S5" value="1.817158293129503" />
+      <entry key="S10" value="2.1138816388880177" />
+      <entry key="S30" value="2.789709814067704" />
+      <entry key="S60" value="3.414270633072521" />
+      <entry key="M2" value="4.795420219402006" />
+      <entry key="M5" value="13.068399181065027" />
+      <entry key="M10" value="27.510354533009814" />
+      <entry key="M15" value="37.459223854143254" />
+      <entry key="M30" value="52.57651045237801" />
+      <entry key="H1" value="62.9849525547383" />
+      <entry key="H2" value="69.12553726771108" />
+      <entry key="H4" value="72.46528827848717" />
+      <entry key="D1" value="75.39682347389162" />
+      <entry key="W1" value="75.91348066018352" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265892198368472" />
+      <entry key="MS500" value="1.0498401575942569" />
+      <entry key="S2" value="1.5017785787929663" />
+      <entry key="S5" value="1.8142762968865065" />
+      <entry key="S10" value="2.112195066866465" />
+      <entry key="S30" value="2.7889634602078455" />
+      <entry key="S60" value="3.4127837879328315" />
+      <entry key="M2" value="4.782453237904841" />
+      <entry key="M5" value="13.018952802267647" />
+      <entry key="M10" value="27.448088252909848" />
+      <entry key="M15" value="37.40076805129856" />
+      <entry key="M30" value="52.53447974092088" />
+      <entry key="H1" value="62.95953740446429" />
+      <entry key="H2" value="69.11153189224945" />
+      <entry key="H4" value="72.45793259717847" />
+      <entry key="D1" value="75.39554587581596" />
+      <entry key="W1" value="75.91329684557603" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3,
@@ -22,12 +109,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.exercise1.executor": "Run",
+    "Python.exercise2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,11 +141,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1784648481628</updated>
-      <workItem from="1784648482698" duration="2000" />
+      <workItem from="1784648482698" duration="1816000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/homework20_7$exercise1.coverage" NAME="exercise1 Coverage Results" MODIFIED="1784650288625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework20_7$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1784650188581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
